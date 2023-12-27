@@ -1,4 +1,4 @@
-package com.example.hashmapbinaryimplementation;
+package com.example.hashmapbinaryimplementation.hashmap;
 
 public class RemoveWordFromParagraph {
     public static void main(String[] args) {
