@@ -1,4 +1,4 @@
-package com.example.hashmapbinaryimplementation;
+package com.example.hashmapbinaryimplementation.hashmap;
 
 import java.util.HashMap;
 import java.util.Locale;
